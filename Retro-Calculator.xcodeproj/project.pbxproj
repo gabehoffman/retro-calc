@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		833FFC871CA616E7009D9B21 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 833FFC861CA616E7009D9B21 /* btn.wav */; };
 		83B3BC511CA5A90600D9A69E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B3BC501CA5A90600D9A69E /* AppDelegate.swift */; };
 		83B3BC531CA5A90600D9A69E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B3BC521CA5A90600D9A69E /* ViewController.swift */; };
 		83B3BC561CA5A90600D9A69E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83B3BC541CA5A90600D9A69E /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		833FFC861CA616E7009D9B21 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 		83B3BC4D1CA5A90600D9A69E /* Retro-Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Retro-Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83B3BC501CA5A90600D9A69E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83B3BC521CA5A90600D9A69E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				83B3BC501CA5A90600D9A69E /* AppDelegate.swift */,
 				83B3BC521CA5A90600D9A69E /* ViewController.swift */,
 				83B3BC541CA5A90600D9A69E /* Main.storyboard */,
+				833FFC861CA616E7009D9B21 /* btn.wav */,
 				83B3BC571CA5A90600D9A69E /* Assets.xcassets */,
 				83B3BC591CA5A90600D9A69E /* LaunchScreen.storyboard */,
 				83B3BC5C1CA5A90600D9A69E /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				833FFC871CA616E7009D9B21 /* btn.wav in Resources */,
 				83B3BC5B1CA5A90600D9A69E /* LaunchScreen.storyboard in Resources */,
 				83B3BC581CA5A90600D9A69E /* Assets.xcassets in Resources */,
 				83B3BC631CA5C5E500D9A69E /* Minecraft.ttf in Resources */,
@@ -290,6 +294,7 @@
 				83B3BC611CA5A90600D9A69E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
