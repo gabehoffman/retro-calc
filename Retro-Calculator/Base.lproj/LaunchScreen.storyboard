@@ -27,8 +27,8 @@
                                     <constraint firstAttribute="height" constant="100" id="rNk-Fd-rQz"/>
                                 </constraints>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Retro-Calc" translatesAutoresizingMaskIntoConstraints="NO" id="yOL-5V-R6d">
-                                <rect key="frame" x="100" y="54" width="400" height="102"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Retro-Calc" translatesAutoresizingMaskIntoConstraints="NO" id="yOL-5V-R6d">
+                                <rect key="frame" x="0.0" y="54" width="600" height="153"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="yOL-5V-R6d" secondAttribute="height" multiplier="200:51" id="sAS-Ru-VY2"/>
                                 </constraints>
